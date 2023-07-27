@@ -1,4 +1,4 @@
-# ARM Assembly IOT1029 Cambrian College
+# ARM Assembly IOT1029 Cambrian College Course
 
 This repository contains ARM assembly code that performs a simple comparison and manipulation of data in registers. The code compares two immediate values stored in registers R0 and R1 and takes different actions based on the comparison result. The main purpose of this code is to demonstrate branching and basic arithmetic operations in the ARM assembly language.
 
